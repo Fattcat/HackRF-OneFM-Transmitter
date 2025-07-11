@@ -1,8 +1,8 @@
 # <p align="center"><b>HackRF GNU Radio FM Transmitter</b></p>
 ## <p align="center"><b>Simple GNU Radio blocks for TX</b></p>
 - Start in your LINUX Terminal
-## ! FOR EDUCATION PUSPOSES ONLY !
-### !ONLY YOU ARE RESPONSIBLE FOR ANY DAMAGES or ILLEGAL ACTIVITY !
+## <p align="center"><b> ! FOR EDUCATION PUSPOSES ONLY !</b></p>
+## <p align="center"><b> ! ONLY YOU ARE RESPONSIBLE FOR ANY DAMAGES or ILLEGAL ACTIVITY !</b></p>
 - I recommend to use Dragon OS
 ## ensure you have gnuradio version 3.10.4.0
 # Setup
